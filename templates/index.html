@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calendar App</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,1000;1,9..40,400;1,9..40,500&display=swap');
+        body {
+            font-family: 'DM Sans', sans-serif;
+            background-color: #e8e8e8;
+        }
+      </style>
+</head>
+<body class="d-flex flex-column justify-content-center align-items-center" style="height: 100vh;">
+
+    <div class="container">
+        <div class="row flex-column justify-content-center align-items-center">
+            <h1>Cheapest Flight Out</h1>
+        </div>
+        <div class="row">
+            <div class="col-6">
+        <input type="text" id="airport-search" class="form-control" placeholder="Search for airports or cities">
+        <ul id="suggestion-list" class="list-group mt-2"></ul>
+        <p id="selected-airport" class="text-center mt-3"></p>
+    </div>
+        <div class="col-6">
+        <input type="date" id="calendar" class="form-control">
+        <p id="selected-date" class="text-center mt-3"></p>
+    </div>
+</div>
+<div class="row">
+<div class="col-4">
+</div>
+<div class="col-4">
+        <div id="flights-table" class="d-flex flex-column justify-content-center">
+        </div>
+</div>
+<div class="col-4">
+</div>
+    </div>
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>
+        function getCurrencySymbol(currencyCode) {
+            var symbols = {
+                'EUR': '€',
+                'GBP': '£'
+            };
+
+            return symbols[currencyCode] || currencyCode;
+        }
+
+        function getAmOrPm(timeString) {
+            var [hours, minutes] = timeString.split(':');
+            hours = parseInt(hours);
+
+            var amOrPm = hours >= 12 ? 'pm' : 'am';
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+
+            return hours + ':' + minutes + ' ' + amOrPm;
+        }
+
+
+        $(document).ready(function(){
+            // Handle the calendar date change
+            $('#calendar').change(function(){
+                var selectedDate = $(this).val();
+                $.post('/update_date', {date: selectedDate}, function(response){
+                //     var table = '<table class="table">'
+                //     var flights = response.flights
+                //     table += '<thead><tr><th>Date</th><th>Time</th><th>Flight No.</th><th>Price</th><th>Currency</th><th>Departure Code</th><th>Departure Location</th><th>Arrival Code</th><th>Arrival Location</th><th>Booking Link</th></tr></thead><tbody>';
+                        
+                //     flights.forEach(function(flight) {
+                //         table += '<tr>';
+                //         table += '<td>' + flight[0] + '</td>';
+                //         table += '<td>' + flight[1] + '</td>';
+                //         table += '<td>' + flight[2] + '</td>';
+                //         table += '<td>' + flight[3] + '</td>';
+                //         table += '<td>' + flight[4] + '</td>';
+                //         table += '<td>' + flight[5] + '</td>';
+                //         table += '<td>' + flight[6] + '</td>';
+                //         table += '<td>' + flight[7] + '</td>';
+                //         table += '<td>' + flight[8] + '</td>';
+                //         table += '<td>' + flight[9] + '</td>';
+                //         table += '</tr>';
+                //     });
+
+                //     table += '</tbody></table>';
+                //     document.getElementById('flights-table').innerHTML = table;
+
+                // });
+
+                    var flights = response.flights;   
+                    var table = '';                    
+                    flights.forEach(function(flight) {
+                            // table += '<img src="' + flight[9] + '" alt="' + flight[8] + '" style="height: 10px;">';
+                            table += '<div class="row my-3" style="border: 2px solid; border-radius:5px;">';
+                            // table += '<div class="col-2">';
+                            // table += '<img src="' + flight[7] + '" alt="' + flight[8] + '" style="height: 20px;">';
+                            // table += '<p>' + flight[6] + '</p>';
+                            // table += '</div>';
+                            table += '<div class="col-9">';
+                            table += '<img src="' + flight[10] + '" alt="' + flight[9] + '" style="height: 30px;">';
+                            table += '<span class="mx-3">' + flight[9] + '</span><br>';
+                            table += '<span style="font-weight: bolder;">' + flight[2] + '</span>';
+                            table += '<span class="mx-2">' + getAmOrPm(flight[1]) + '</span>';
+                            table += '</div>';
+                            table += '<div class="col-3">';
+                            table += '<button class="btn btn-info my-2" href="' + flight[11] + '" target="_blank">'+ getCurrencySymbol(flight[4]) + flight[3] + '</button>';
+                            table += '</div>';
+                            // table += '<p>' + getCurrencySymbol(flight[4]) + flight[3] + '</p>';
+
+                            // table += '<a href="' + flight[9] + '" target="_blank">Booking Link</a>';
+                            table += '</div>';
+                                });
+                            document.getElementById('flights-table').innerHTML = table;
+
+                    });
+            });
+    
+            // Handle the airport search input
+            $('#airport-search').on('input', function(){
+                var query = $(this).val();
+                $('#suggestion-list').empty();
+                if(query.length > 2){
+                    $.get('/suggest_airports', {query: query}, function(response){
+                        response.forEach(function(airport){
+                            var listItem = '<li class="list-group-item list-group-item-action" data-code="'+ airport.code +'">' +
+                                           '<img src="' + airport.flag_link + '" alt="' + airport.country + '" style="height: 20px;"> ' +
+                                           airport.city + ', ' + airport.country + ' (' + airport.code + ')</li>';
+                            $('#suggestion-list').append(listItem);
+                        });
+                    });
+                }
+            });
+    
+            // Handle the airport selection from the suggestion list
+            $('#suggestion-list').on('click', 'li', function(){
+                var selectedAirport = $(this).text();
+                var code = $(this).data('code');
+                $('#airport-search').val(selectedAirport);
+                $('#suggestion-list').empty();
+    
+                $.post('/select_airport', {code: code}, function(response){
+                    console.log('Airport code selected:', response.code);
+                });
+            });
+        });
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,4 @@
+flask
+ryanair-py
+beautifulsoup4
+lxml

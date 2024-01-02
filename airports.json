@@ -1,0 +1,1388 @@
+[
+    {
+        "country": "Albania",
+        "city": "Tirana",
+        "code": "TIA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/AL.png"
+    },
+    {
+        "country": "Austria",
+        "city": "Klagenfurt",
+        "code": "KLU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/AT.png"
+    },
+    {
+        "country": "Austria",
+        "city": "Salzburg",
+        "code": "SZG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/AT.png"
+    },
+    {
+        "country": "Austria",
+        "city": "Vienna",
+        "code": "VIE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/AT.png"
+    },
+    {
+        "country": "Belgium",
+        "city": "Brussels",
+        "code": "BRU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BE.png"
+    },
+    {
+        "country": "Belgium",
+        "city": "Brussels Charleroi",
+        "code": "CRL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BE.png"
+    },
+    {
+        "country": "Bosnia & Herzegovina",
+        "city": "Banja Luka",
+        "code": "BNX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BA.png"
+    },
+    {
+        "country": "Bulgaria",
+        "city": "Burgas",
+        "code": "BOJ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BG.png"
+    },
+    {
+        "country": "Bulgaria",
+        "city": "Plovdiv",
+        "code": "PDV",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BG.png"
+    },
+    {
+        "country": "Bulgaria",
+        "city": "Sofia",
+        "code": "SOF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BG.png"
+    },
+    {
+        "country": "Bulgaria",
+        "city": "Varna",
+        "code": "VAR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/BG.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Dubrovnik",
+        "code": "DBV",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Osijek",
+        "code": "OSI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Pula",
+        "code": "PUY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Rijeka",
+        "code": "RJK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Split",
+        "code": "SPU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Zadar",
+        "code": "ZAD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Croatia",
+        "city": "Zagreb",
+        "code": "ZAG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HR.png"
+    },
+    {
+        "country": "Cyprus",
+        "city": "Larnaca",
+        "code": "LCA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CY.png"
+    },
+    {
+        "country": "Cyprus",
+        "city": "Paphos",
+        "code": "PFO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CY.png"
+    },
+    {
+        "country": "Czechia",
+        "city": "Brno",
+        "code": "BRQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CZ.png"
+    },
+    {
+        "country": "Czechia",
+        "city": "Ostrava",
+        "code": "OSR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CZ.png"
+    },
+    {
+        "country": "Czechia",
+        "city": "Pardubice",
+        "code": "PED",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CZ.png"
+    },
+    {
+        "country": "Czechia",
+        "city": "Prague",
+        "code": "PRG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CZ.png"
+    },
+    {
+        "country": "Denmark",
+        "city": "Aalborg",
+        "code": "AAL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DK.png"
+    },
+    {
+        "country": "Denmark",
+        "city": "Aarhus",
+        "code": "AAR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DK.png"
+    },
+    {
+        "country": "Denmark",
+        "city": "Billund",
+        "code": "BLL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DK.png"
+    },
+    {
+        "country": "Denmark",
+        "city": "Copenhagen",
+        "code": "CPH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DK.png"
+    },
+    {
+        "country": "Estonia",
+        "city": "Tallinn",
+        "code": "TLL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/EE.png"
+    },
+    {
+        "country": "Finland",
+        "city": "Helsinki",
+        "code": "HEL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FI.png"
+    },
+    {
+        "country": "Finland",
+        "city": "Lappeenranta",
+        "code": "LPP",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FI.png"
+    },
+    {
+        "country": "Finland",
+        "city": "Rovaniemi",
+        "code": "RVN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FI.png"
+    },
+    {
+        "country": "France",
+        "city": "Bergerac, Dordogne",
+        "code": "EGC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "B\u00e9ziers",
+        "code": "BZR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Biarritz",
+        "code": "BIQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Bordeaux",
+        "code": "BOD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Brive-la-Gaillarde",
+        "code": "BVE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Carcassonne",
+        "code": "CCF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Clermont-Ferrand",
+        "code": "CFE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Dole",
+        "code": "DLE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Figari",
+        "code": "FSC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Grenoble / Lyon",
+        "code": "GNB",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "La Rochelle",
+        "code": "LRH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Lille",
+        "code": "LIL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Limoges",
+        "code": "LIG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Lourdes / Tarbes",
+        "code": "LDE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Marseille",
+        "code": "MRS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Nantes",
+        "code": "NTE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Nice",
+        "code": "NCE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "N\u00eemes",
+        "code": "FNI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Paris (Beauvais)",
+        "code": "BVA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Paris (Vatry)",
+        "code": "XCR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Perpignan",
+        "code": "PGF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Poitiers",
+        "code": "PIS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Rodez",
+        "code": "RDZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Strasbourg",
+        "code": "SXB",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Toulouse",
+        "code": "TLS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "France",
+        "city": "Tours",
+        "code": "TUF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/FR.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Berlin",
+        "code": "BER",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Bremen",
+        "code": "BRE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Cologne-Bonn",
+        "code": "CGN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Dortmund",
+        "code": "DTM",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Dresden",
+        "code": "DRS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "D\u00fcsseldorf Weeze",
+        "code": "NRN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Frankfurt Hahn",
+        "code": "HHN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Hamburg",
+        "code": "HAM",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Karlsruhe / Baden-Baden",
+        "code": "FKB",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Leipzig",
+        "code": "LEJ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Memmingen",
+        "code": "FMM",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "M\u00fcnster / Osnabr\u00fcck",
+        "code": "FMO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Nuremberg",
+        "code": "NUE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Germany",
+        "city": "Paderborn",
+        "code": "PAD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/DE.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Athens",
+        "code": "ATH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Chania (Crete)",
+        "code": "CHQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Corfu",
+        "code": "CFU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Heraklion",
+        "code": "HER",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Kalamata",
+        "code": "KLX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Kefalonia",
+        "code": "EFL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Kos",
+        "code": "KGS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Mykonos",
+        "code": "JMK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Preveza / Lefkada",
+        "code": "PVK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Rhodes",
+        "code": "RHO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Santorini",
+        "code": "JTR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Skiathos",
+        "code": "JSI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Thessaloniki",
+        "code": "SKG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Greece",
+        "city": "Zakynthos Island",
+        "code": "ZTH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GR.png"
+    },
+    {
+        "country": "Hungary",
+        "city": "Budapest",
+        "code": "BUD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/HU.png"
+    },
+    {
+        "country": "Ireland",
+        "city": "Cork",
+        "code": "ORK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IE.png"
+    },
+    {
+        "country": "Ireland",
+        "city": "Dublin",
+        "code": "DUB",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IE.png"
+    },
+    {
+        "country": "Ireland",
+        "city": "Kerry",
+        "code": "KIR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IE.png"
+    },
+    {
+        "country": "Ireland",
+        "city": "Knock",
+        "code": "NOC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IE.png"
+    },
+    {
+        "country": "Ireland",
+        "city": "Shannon",
+        "code": "SNN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IE.png"
+    },
+    {
+        "country": "Israel",
+        "city": "Tel Aviv",
+        "code": "TLV",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IL.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Alghero",
+        "code": "AHO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Ancona",
+        "code": "AOI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Bari",
+        "code": "BRI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Bologna",
+        "code": "BLQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Bologna Forl\u00ec",
+        "code": "FRL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Brindisi",
+        "code": "BDS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Cagliari",
+        "code": "CAG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Catania",
+        "code": "CTA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Crotone",
+        "code": "CRV",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Cuneo",
+        "code": "CUF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Genoa",
+        "code": "GOA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Lamezia Terme",
+        "code": "SUF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Milan (Bergamo)",
+        "code": "BGY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Milan (Malpensa)",
+        "code": "MXP",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Naples",
+        "code": "NAP",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Palermo",
+        "code": "PMO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Parma",
+        "code": "PMF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Perugia",
+        "code": "PEG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Pescara",
+        "code": "PSR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Pisa",
+        "code": "PSA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Rimini",
+        "code": "RMI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Rome (Ciampino)",
+        "code": "CIA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Rome (Fiumicino)",
+        "code": "FCO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Trapani",
+        "code": "TPS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Trieste",
+        "code": "TRS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Turin",
+        "code": "TRN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Venice",
+        "code": "TSF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Venice Marco Polo",
+        "code": "VCE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Italy",
+        "city": "Verona",
+        "code": "VRN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/IT.png"
+    },
+    {
+        "country": "Jordan",
+        "city": "Amman",
+        "code": "AMM",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/JO.png"
+    },
+    {
+        "country": "Jordan",
+        "city": "Aqaba",
+        "code": "AQJ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/JO.png"
+    },
+    {
+        "country": "Latvia",
+        "city": "Riga",
+        "code": "RIX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/LV.png"
+    },
+    {
+        "country": "Lithuania",
+        "city": "Kaunas",
+        "code": "KUN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/LT.png"
+    },
+    {
+        "country": "Lithuania",
+        "city": "Palanga",
+        "code": "PLQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/LT.png"
+    },
+    {
+        "country": "Lithuania",
+        "city": "Vilnius",
+        "code": "VNO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/LT.png"
+    },
+    {
+        "country": "Luxembourg",
+        "city": "Luxembourg City",
+        "code": "LUX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/LU.png"
+    },
+    {
+        "country": "Malta",
+        "city": "Malta",
+        "code": "MLA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MT.png"
+    },
+    {
+        "country": "Montenegro",
+        "city": "Podgorica",
+        "code": "TGD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ME.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Agadir",
+        "code": "AGA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Essaouira",
+        "code": "ESU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Fes",
+        "code": "FEZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Marrakech",
+        "code": "RAK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Nador",
+        "code": "NDR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Ouarzazate",
+        "code": "OZZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Oujda",
+        "code": "OUD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Rabat",
+        "code": "RBA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "Tangier",
+        "code": "TNG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Morocco",
+        "city": "T\u00e9touan",
+        "code": "TTU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/MA.png"
+    },
+    {
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "code": "AMS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/NL.png"
+    },
+    {
+        "country": "Netherlands",
+        "city": "Eindhoven",
+        "code": "EIN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/NL.png"
+    },
+    {
+        "country": "Netherlands",
+        "city": "Maastricht Aachen",
+        "code": "MST",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/NL.png"
+    },
+    {
+        "country": "Norway",
+        "city": "Oslo",
+        "code": "OSL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/NO.png"
+    },
+    {
+        "country": "Norway",
+        "city": "Oslo (Torp)",
+        "code": "TRF",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/NO.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Bydgoszcz",
+        "code": "BZG",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Gda\u0144sk",
+        "code": "GDN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Katowice",
+        "code": "KTW",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Krakow",
+        "code": "KRK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Lodz",
+        "code": "LCJ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Lublin",
+        "code": "LUZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Pozna\u0144",
+        "code": "POZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Rzesz\u00f3w",
+        "code": "RZE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Szczecin",
+        "code": "SZZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Szczytno",
+        "code": "SZY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Warsaw",
+        "code": "WMI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Warsaw",
+        "code": "WAW",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Poland",
+        "city": "Wroc\u0142aw",
+        "code": "WRO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PL.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Faro",
+        "code": "FAO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Funchal (Madeira)",
+        "code": "FNC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "code": "LIS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Ponta Delgada",
+        "code": "PDL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Porto",
+        "code": "OPO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Portugal",
+        "city": "Terceira Island",
+        "code": "TER",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/PT.png"
+    },
+    {
+        "country": "Romania",
+        "city": "Bucharest",
+        "code": "OTP",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/RO.png"
+    },
+    {
+        "country": "Romania",
+        "city": "Cluj-Napoca",
+        "code": "CLJ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/RO.png"
+    },
+    {
+        "country": "Romania",
+        "city": "Iasi",
+        "code": "IAS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/RO.png"
+    },
+    {
+        "country": "Serbia",
+        "city": "Ni\u0161",
+        "code": "INI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/RS.png"
+    },
+    {
+        "country": "Slovakia",
+        "city": "Bratislava",
+        "code": "BTS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SK.png"
+    },
+    {
+        "country": "Slovakia",
+        "city": "Ko\u0161ice",
+        "code": "KSC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SK.png"
+    },
+    {
+        "country": "Slovakia",
+        "city": "Poprad-Tatry",
+        "code": "TAT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SK.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Alicante",
+        "code": "ALC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Almer\u00eda",
+        "code": "LEI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Asturias",
+        "code": "OVD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Barcelona",
+        "code": "BCN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Barcelona (Girona)",
+        "code": "GRO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Barcelona Reus (Salou)",
+        "code": "REU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Castell\u00f3n de la Plana",
+        "code": "CDT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Fuerteventura",
+        "code": "FUE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Gran Canaria de Las Palmas",
+        "code": "LPA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Ibiza",
+        "code": "IBZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Jerez de la Frontera",
+        "code": "XRY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Lanzarote Arrecife",
+        "code": "ACE",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Madrid",
+        "code": "MAD",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "M\u00e1laga",
+        "code": "AGP",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Menorca",
+        "code": "MAH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Murcia",
+        "code": "RMU",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Palma de Mallorca",
+        "code": "PMI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Santander",
+        "code": "SDR",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Santiago de Compostela",
+        "code": "SCQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Seville",
+        "code": "SVQ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Tenerife (Los Rodeos)",
+        "code": "TFN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Tenerife (Reina Sof\u00eda)",
+        "code": "TFS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Valencia",
+        "code": "VLC",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Valladolid",
+        "code": "VLL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Vigo",
+        "code": "VGO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Vitoria-Gasteiz",
+        "code": "VIT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Spain",
+        "city": "Zaragoza",
+        "code": "ZAZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/ES.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Gothenburg",
+        "code": "GOT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Lule\u00e5",
+        "code": "LLA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Malm\u00f6",
+        "code": "MMX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Orebro",
+        "code": "ORB",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Skellefte\u00e5",
+        "code": "SFT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Stockholm (Arlanda)",
+        "code": "ARN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Stockholm (V\u00e4ster\u00e5s)",
+        "code": "VST",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "V\u00e4xj\u00f6",
+        "code": "VXO",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Sweden",
+        "city": "Visby",
+        "code": "VBY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/SE.png"
+    },
+    {
+        "country": "Switzerland",
+        "city": "Basel Mulhouse Freiburg",
+        "code": "BSL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/CH.png"
+    },
+    {
+        "country": "Turkey",
+        "city": "Bodrum",
+        "code": "BJV",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/TR.png"
+    },
+    {
+        "country": "Turkey",
+        "city": "Dalaman",
+        "code": "DLM",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/TR.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Aberdeen",
+        "code": "ABZ",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Belfast International",
+        "code": "BFS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Birmingham",
+        "code": "BHX",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Bournemouth",
+        "code": "BOH",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Bristol",
+        "code": "BRS",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Cardiff",
+        "code": "CWL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Teesside (Durham Valley)",
+        "code": "MME",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Edinburgh",
+        "code": "EDI",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Exeter",
+        "code": "EXT",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Glasgow",
+        "code": "GLA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Glasgow (Prestwick)",
+        "code": "PIK",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Leeds / Bradford",
+        "code": "LBA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Liverpool",
+        "code": "LPL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "London Gatwick",
+        "code": "LGW",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "London Luton",
+        "code": "LTN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "London Stansted",
+        "code": "STN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Manchester",
+        "code": "MAN",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Newcastle",
+        "code": "NCL",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Newquay",
+        "code": "NQY",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    },
+    {
+        "country": "United Kingdom",
+        "city": "Nottingham",
+        "code": "EMA",
+        "flag_link": "https://cdn.flightconnections.com/flags/24/GB.png"
+    }
+]
